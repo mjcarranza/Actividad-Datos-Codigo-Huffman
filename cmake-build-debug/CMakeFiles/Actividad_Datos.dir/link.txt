@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/Actividad_Datos.dir/main.cpp.o -o Actividad_Datos 
